@@ -1,14 +1,14 @@
 {
-  "name": "vue-area",
+  "name": "vue-area-cg",
   "version": "1.0.0",
-  "description": "vue-area component for vue2.x!",
+  "description": "vue-area component for vue2.x! copy from blue0728",
   "main": "dist/vue-area.js",
   "scripts": {
     "build": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blue0728/vue-area.git"
+    "url": "git+https://github.com/hncg/vue-area.git"
   },
   "keywords": [
     "vue",
@@ -17,9 +17,9 @@
   "author": "Serge",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/blue0728/vue-area/issues"
+    "url": "https://github.com/hncg/vue-area/issues"
   },
-  "homepage": "https://github.com/blue0728/vue-area#readme",
+  "homepage": "https://github.com/hncg/vue-area#readme",
   "dependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
